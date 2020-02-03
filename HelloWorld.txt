@@ -1,3 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello World!
 Hello Tiffany!
+=======
+
+>>>>>>> f4ee88fc51fb13b78be14eb0c19f24bdca52204a
