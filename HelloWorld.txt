@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Hello World!
+Hello Tiffany!
